@@ -1,4 +1,14 @@
-## Hi there 👋
+## ¡Bienvenidos! 👋
+
+Este es mi sitio en GitHub donde compartiremos códigos para el análisis matricial de estructuras 🏗️.
+
+Mi nombre es Diego Cavazos y soy profesor en la Facultad de Ingeniería Civil de la Universidad Autónoma de Nuevo León.
+
+Actualmente, estudio un doctorado en Materiales de Construcción 👨‍🎓 y busco difundir la tecnología en el área de la Ingeniería Civil.
+
+Si te deseas comunicar conmigo, escríbeme a 📫 diego.cavazosd@uanl.edu.mx.
+
+¡Saludos!
 
 <!--
 **diegocavazos53/diegocavazos53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
